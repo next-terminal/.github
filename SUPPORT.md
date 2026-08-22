@@ -1,18 +1,18 @@
-# Next Terminal Support
+# Support
 
-## 产品问题与建议
+## Questions, Ideas, and Bug Reports
 
-- **使用问题 / 功能建议 / 复现问题**：请到 [`next-terminal/next-terminal` Issues](https://github.com/next-terminal/next-terminal/issues) 搜索后新建 Issue，附上版本、环境、复现步骤与预期/实际行为。
-- **用户案例**：欢迎在 [#518 用户案例统计](https://github.com/next-terminal/next-terminal/issues/518) 分享你的使用场景。
-- 发帖前请先查阅 [官方文档](https://docs.next-terminal.com)。
+- **Issues and feature requests**: please search existing [Issues](https://github.com/next-terminal/next-terminal/issues) first. If not found, open a new issue with version, environment, reproduction steps, and expected vs actual behavior.
+- **User cases**: share your story in [#518 User Cases](https://github.com/next-terminal/next-terminal/issues/518).
+- Check [Docs](https://docs.next-terminal.com) before posting.
 
-请勿在公开 Issue 中提交密码、私钥、API Token、内网地址或客户数据。
+Do not post passwords, private keys, API tokens, internal addresses, or customer data in public issues.
 
-## 安全问题
+## Security Issues
 
-请勿公开提交安全漏洞。发邮件至 **dushixiang@typesafe.cn**，详见仓库 `SECURITY.md` 与 [安全策略](https://github.com/next-terminal/next-terminal/security/policy)。
+Do not report vulnerabilities publicly. Email **support@next-terminal.com**. See `SECURITY.md` and the [security policy](https://github.com/next-terminal/next-terminal/security/policy).
 
-## 社群
+## Community
 
 - Telegram: https://t.me/next_terminal
-- 微信：加微信备注「next-terminal」进群
+- WeChat: add with note `next-terminal`

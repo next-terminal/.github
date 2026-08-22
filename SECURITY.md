@@ -9,9 +9,9 @@
 
 ## Reporting a Vulnerability
 
-请勿通过公开 Issue 报告安全漏洞。
+Do not report security vulnerabilities via public issues.
 
-- 邮件：**dushixiang@typesafe.cn**
-- 请包含：影响版本、复现方式、影响范围、建议修复思路（如有）
+- Email: **support@next-terminal.com**
+- Please include: affected version, how to reproduce, impact, and suggested fix if any.
 
-我们会在确认后尽快响应，并在修复后发布安全公告。感谢你的负责任披露。
+We will acknowledge your report and publish an advisory after a fix is available. Thank you for responsible disclosure.
