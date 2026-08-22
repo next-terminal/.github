@@ -47,7 +47,7 @@ Next Terminal is a bastion host for enterprise operations. It centralizes asset 
 
 ## Sponsors & Acknowledgements
 
-CDN and security by [Tencent EdgeOne](https://edgeone.ai/zh?from=github). Thanks to SharonNetworks, Laika Cloud, Digitalvirt, Gomami for sponsoring.
+CDN and security by [Tencent EdgeOne](https://edgeone.ai/zh?from=github). Thanks to Laika Cloud, Digitalvirt, Gomami for sponsoring.
 
 ---
 
