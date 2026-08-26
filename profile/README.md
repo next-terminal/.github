@@ -6,7 +6,7 @@
 
 RDP / SSH / VNC / Telnet / HTTP · Session Recording & Replay · Auditing & Compliance
 
-[Website](https://www.next-terminal.com) · [Docs](https://docs.next-terminal.com) · [Live Demo](https://demo.next-terminal.com) · [License](https://license.next-terminal.com)
+[Website](https://www.next-terminal.com) · [Docs](https://docs.next-terminal.com) · [Live Demo](https://demo.next-terminal.com) · [License](https://license.next-terminal.com) · [Telegram](https://t.me/next_terminal)
 
 </div>
 
