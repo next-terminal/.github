@@ -14,5 +14,4 @@ Do not report vulnerabilities publicly. Email **support@next-terminal.com**. See
 
 ## Community
 
-- Telegram: https://t.me/next_terminal
-- WeChat: add with note `next-terminal`
+- Community: See https://www.next-terminal.com for community channels.

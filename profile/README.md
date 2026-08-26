@@ -6,7 +6,7 @@
 
 RDP / SSH / VNC / Telnet / HTTP · Session Recording & Replay · Auditing & Compliance
 
-[Website](https://www.next-terminal.com) · [Docs](https://docs.next-terminal.com) · [Live Demo](https://demo.next-terminal.com) · [License](https://license.next-terminal.com) · [Telegram](https://t.me/next_terminal)
+[Website](https://www.next-terminal.com) · [Docs](https://docs.next-terminal.com) · [Live Demo](https://demo.next-terminal.com) · [License](https://license.next-terminal.com)
 
 </div>
 
@@ -43,7 +43,7 @@ Next Terminal is a bastion host for enterprise operations. It centralizes asset 
 - **Website**: https://www.next-terminal.com · **Docs**: https://docs.next-terminal.com
 - **Showcase**: [User cases #518](https://github.com/next-terminal/next-terminal/issues/518)
 - **Security**: please email **support@next-terminal.com** — do not file public issues
-- **Community**: Telegram https://t.me/next_terminal · WeChat: add with note `next-terminal`
+- **Community**: See https://www.next-terminal.com for community channels (GitHub Issues for bugs/features).
 
 ## Sponsors & Acknowledgements
 
