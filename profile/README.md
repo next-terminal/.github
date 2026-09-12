@@ -43,7 +43,13 @@ Next Terminal is a bastion host for enterprise operations. It centralizes asset 
 - **Website**: https://www.next-terminal.com · **Docs**: https://docs.next-terminal.com
 - **Showcase**: [User cases #518](https://github.com/next-terminal/next-terminal/issues/518)
 - **Security**: please email **support@next-terminal.com** — do not file public issues
-- **Community**: See https://www.next-terminal.com for community channels (GitHub Issues for bugs/features).
+- **Community**: [Telegram](https://t.me/next_terminal) · WeChat group — scan the QR code below (refreshed periodically; if it has expired, see https://www.next-terminal.com) · [GitHub Issues](https://github.com/next-terminal/next-terminal/issues) for bugs and feature requests
+
+<div align="center">
+
+<img src="images/wechat-group.jpg" alt="Next Terminal WeChat group QR code" width="200">
+
+</div>
 
 ## Sponsors & Acknowledgements
 
