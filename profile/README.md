@@ -6,7 +6,7 @@
 
 RDP / SSH / VNC / Telnet / HTTP · Session Recording & Replay · Auditing & Compliance
 
-[Website](https://www.next-terminal.com) · [Docs](https://docs.next-terminal.com) · [Live Demo](https://demo.next-terminal.com) · [License](https://license.next-terminal.com) · [Telegram](https://t.me/next_terminal)
+[Website](https://www.next-terminal.com) · [Docs](https://www.next-terminal.com/docs/) · [Live Demo](https://demo.next-terminal.com) · [License](https://license.next-terminal.com) · [Telegram](https://t.me/next_terminal)
 
 </div>
 
@@ -26,21 +26,22 @@ Next Terminal is a bastion host for enterprise operations. It centralizes asset 
 
 ## Quick Start
 
-- **Install** (recommended): [Container install](https://docs.next-terminal.com/install/container-install) (Docker Compose)
-- **Docs**: https://docs.next-terminal.com
+- **Install** (recommended): [Container install](https://www.next-terminal.com/docs/install/container-install) (Docker Compose)
+- **Docs**: https://www.next-terminal.com/docs/ — installation, usage guides, and FAQ
 - **Demo**: https://demo.next-terminal.com
 
 ## Official Repositories
 
 - [`next-terminal`](https://github.com/next-terminal/next-terminal) — main program (5600+ ⭐), audit core and gateways
-- [`document`](https://github.com/next-terminal/document) — official docs (VitePress / Astro)
+- [`website`](https://github.com/next-terminal/website) — official website and documentation (single merged site)
+- [`document`](https://github.com/next-terminal/document) — retained for redirects; documentation now lives in `website`
 - [`.github`](https://github.com/next-terminal/.github) — organization profile and default community health files (this repo)
 
 > Also archived under personal account: [`dushixiang/next-terminal`](https://github.com/dushixiang/next-terminal) (same source, now under `next-terminal` org)
 
 ## Links
 
-- **Website**: https://www.next-terminal.com · **Docs**: https://docs.next-terminal.com
+- **Website**: https://www.next-terminal.com · **Docs**: https://www.next-terminal.com/docs/
 - **Showcase**: [User cases #518](https://github.com/next-terminal/next-terminal/issues/518)
 - **Security**: please email **support@next-terminal.com** — do not file public issues
 - **Community**: [Telegram](https://t.me/next_terminal) · WeChat group — scan the QR code below (refreshed periodically; if it has expired, see https://www.next-terminal.com) · [GitHub Issues](https://github.com/next-terminal/next-terminal/issues) for bugs and feature requests
